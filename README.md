@@ -16,7 +16,7 @@
 
 
 ## Contact
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1147116997021270027?theme=transparent&bg=0d1117&animated=true&idleMessage=divent%20devin&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/1147116997021270027)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1147116997021270027?theme=transparent&bg=0d1117&animated=true&idleMessage=3ding%20rn&borderRadius=125px&hideDiscrim=false)](https://discord.com/users/1147116997021270027)
 
 
 
