@@ -1,7 +1,7 @@
 ## about
 - george
 - 17
-- 3d modeller & cyber sec student
+- 3d modeller
 
 
 ## Skills
