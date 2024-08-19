@@ -10,6 +10,7 @@
   <img width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> 
   <img width="35" src="https://media.discordapp.net/attachments/1147132957870526506/1275162121860157461/939px-Blender_logo_no_text.png?ex=66c4e2c5&is=66c39145&hm=9592ee2992023dd5dabf321d02dd422e402a6ed76db1d8daf3242fc4bd8dee09&=&format=webp&quality=lossless&width=820&height=671" /> 
   <img width="30" src="https://media.discordapp.net/attachments/1147132957870526506/1275162332892233769/autodesk-3ds-max-product-icon-128_2x.png?ex=66c4e2f7&is=66c39177&hm=a42fbb4a7b6199bace453ac4d104219f6053b1730846b33dd36ef2d1ad2739e8&=&format=webp&quality=lossless" /> 
+  <img width="30" src="https://img.icons8.com/color/512/fivem.png" />
 </div>
 
 
