@@ -18,7 +18,7 @@
 
 ## Stats
 
-![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=8eorge&theme=transparent&hide_border=true)
+!['s GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=8eorge&theme=transparent&hide_border=true)
 
 
 ![](https://komarev.com/ghpvc/?username=8eorge&color=blue)
