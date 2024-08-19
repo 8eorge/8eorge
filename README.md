@@ -2,8 +2,8 @@
 
 ## About
 **George**  
-17  
-3D Modeller & Student
+**17**  
+**3D Modeller & Student**
 
 ## Skills
 <img width="35" src="https://media.discordapp.net/attachments/1147132957870526506/1275162489713070180/512px-HTML5_logo_and_wordmark.png?ex=66c4e31c&is=66c3919c&hm=e292300e5440ee55abf74037408bdc6ff529d7fce0bb70b65f6357a50560fb82&=&format=webp&quality=lossless" />
