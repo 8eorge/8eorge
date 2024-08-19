@@ -1,7 +1,12 @@
-## about
-- george
-- 17
-- 3d modeller & cyber sec student
+## About
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    george</li>
+    17</li>
+    3d modeller & cyber sec student</li>
+  </ul>
+</div>
+
 
 ## Skills
 <div align="center">
