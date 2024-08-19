@@ -17,9 +17,6 @@
 ## Contact
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1147116997021270027?theme=transparent&bg=0d1117&animated=true&idleMessage=divent%20devin&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/1147116997021270027)
 
-## Stats
-
-!['s GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=8eorge&theme=transparent&hide_border=true)
 
 
 ![](https://komarev.com/ghpvc/?username=8eorge&color=blue)
