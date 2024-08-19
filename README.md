@@ -14,8 +14,6 @@
 <img width="30" src="https://img.icons8.com/color/512/fivem.png" />
 
 ## Contact
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1147116997021270027?theme=transparent&bg=0d1117&animated=true&idleMessage=3ding%20rn&borderRadius=125px&hideDiscrim=false)](https://discord.com/users/1147116997021270027)
-
-![](https://komarev.com/ghpvc/?username=8eorge&color=blue)
+http://inprogress.com/
 
 </div>
