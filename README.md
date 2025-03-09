@@ -1,3 +1,2 @@
-- tokenizing tech with solana.
-- web3 developer.
 - uk.
+- cyber security.
