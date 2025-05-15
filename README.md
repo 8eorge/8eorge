@@ -1,2 +1,1 @@
-- uk.
-- cyber security.
+- crypto enthusiast 
