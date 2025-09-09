@@ -1,2 +1,1 @@
 - 8teen
-- crypto nigga
